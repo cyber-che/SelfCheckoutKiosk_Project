@@ -2,23 +2,10 @@
 //
 // Title: In this application we are going to develop a simple self-checkout application for a
 // grocery store.
-// Course: CS 300 Fall 2020
 //
 // Author: Che John
 // Email: cbfu@wisc.edu
-// Lecturer: Mouna Kacem
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: (identify each by name and describe how they helped)
-// Online Sources:
-//
-///////////////////////////////////////////////////////////////////////////////
 
-/**
- * This class ...
- *
- */
 public class SelfCheckoutKioskTester {
 
 
