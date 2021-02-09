@@ -1,23 +1,13 @@
 //////////////// FILE HEADER //////////////////////////
 //
 // Title: SELF CHECKOUT KIOSK 
-// Course: CS 300 Spring 2021
 //
 // Author: Che John
 // Email: cbfu@wisc.edu
-// Lecturer: Mouna Kacem
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons:  NONE
-// Online Sources: https://stackoverflow.com/questions/6016501/parsing-a-currency-string-in-java
-// helped me find the replaceAll extension for line 61
-//
-///////////////////////////////////////////////////////////////////////////////
 
 /**
  * Develop a simple self-checkout application for a
- * grocery store. (not long enough)
+ * grocery store.
  *
  */
 public class SelfCheckoutKiosk {
